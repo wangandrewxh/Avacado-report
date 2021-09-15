@@ -2,6 +2,8 @@
 
 Dataset: https://www.kaggle.com/neuromusic/avocado-prices
 
+![alt text](https://im3.ezgif.com/tmp/ezgif-3-e9ecffddcbaf.png)
+
 **Reason + Relevance:** <br>
 I decided to pick a dataset from the Business-related category, and wanted to analyse something interesting, which is why I picked Avocado prices + sales. This dataset only has data available from people in the USA from the years 2015 to 2018. Nevertheless, I feel that it is quite relevant to US citizens who really love eating avocados and may want to visualise the sales and price of avocados. There is also potential for these individuals to pick the best time to buy avocados, in what region, and what variety. 
 
